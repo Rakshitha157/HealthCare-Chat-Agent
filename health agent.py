@@ -8,7 +8,7 @@ from PyPDF2 import PdfReader
 import docx2txt
 
 # Source of the data
-PDF_DIRECTORY = r'/Users/rakshithajaganth/Downloads/ecommerce.py'
+PDF_DIRECTORY = r'/Users/rakshithajaganth/Downloads/healthyheart.pdf'
 os.makedirs(PDF_DIRECTORY, exist_ok=True)
 
 # Loading the data from the source
